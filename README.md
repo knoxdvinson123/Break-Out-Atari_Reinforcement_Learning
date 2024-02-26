@@ -2,7 +2,7 @@ This repository is an exploration of machine learning techniques, focusing on tr
 
 ![image](https://github.com/knoxdvinson123/Break-Out-Atari_Reinforcement_Learning/assets/154300416/8cc9f5ff-8d4d-4d96-b197-90dde88158e7)
 
-
+ 
 About Reinforcement Learning (RL):
 - Reinforcement Learning empowers agents to learn optimal behavior by interacting with an environment. In the Atari Breakout scenario, the agent's mission is to skillfully control a paddle to keep the ball in play, breaking blocks and accumulating points. The learning process involves iterative training sessions, with positive rewards for successfully hitting blocks and negative feedback for missed opportunities.
 
